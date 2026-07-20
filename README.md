@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=🏨Hotel%20%20ManagementSystem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=250&section=header&text=Hotel%20Management%20System&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 A full-stack hotel management web application built with Spring Boot, featuring room management, booking, and cancellation — deployed live with Docker on Render.
 
